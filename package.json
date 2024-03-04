@@ -5,6 +5,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "start": "node 4.ts"
+  },
   "dependencies": {
     "typescript": "^5.1.5"
   }
